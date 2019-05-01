@@ -1,0 +1,961 @@
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\KenakataApp.dll.config
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\KenakataApp.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\KenakataApp.pdb
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\csc.exe
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\csc.exe.config
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\csc.rsp
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\csi.exe
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\csi.exe.config
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\csi.rsp
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.AppContext.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.Console.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\vbc.exe
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\vbc.exe.config
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\vbc.rsp
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\EntityFramework.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\Microsoft.Owin.Cors.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\Microsoft.Owin.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\Newtonsoft.Json.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\Owin.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\System.Web.Cors.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\System.Web.Helpers.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\System.Web.Http.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\System.Web.Mvc.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\System.Web.Razor.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\System.Web.Webpages.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\EntityFramework.xml
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\Microsoft.Owin.xml
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\Microsoft.Owin.Cors.xml
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\Newtonsoft.Json.pdb
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\Newtonsoft.Json.xml
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\System.Web.Razor.xml
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\System.Web.Webpages.xml
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\System.Web.Helpers.xml
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\System.Web.Mvc.xml
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\System.Web.Http.xml
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\obj\Debug\KenakataApp.csprojAssemblyReference.cache
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\obj\Debug\KenakataApp.csproj.CoreCompileInputs.cache
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\obj\Debug\KenakataApp.csproj.CopyComplete
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\obj\Debug\KenakataApp.dll
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\obj\Debug\KenakataApp.pdb
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\obj\Debug\KenakataApp.Migrations.Version1.resources
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\obj\Debug\KenakataApp.csproj.GenerateResource.cache
+C:\Users\Touhid\Desktop\New folder\KenakataApp\KenakataApp\bin\System.Device.Portable.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\KenakataApp.dll.config
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\KenakataApp.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\KenakataApp.pdb
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\csc.exe
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\csc.exe.config
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\csc.rsp
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\csi.exe
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\csi.exe.config
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\csi.rsp
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.AppContext.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.Collections.Immutable.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.Console.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.IO.Compression.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.IO.FileSystem.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.IO.Pipes.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.Security.AccessControl.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.Security.Claims.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.ValueTuple.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.Xml.XPath.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\vbc.exe
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\vbc.exe.config
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\vbc.rsp
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\VBCSCompiler.exe
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\roslyn\VBCSCompiler.exe.config
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\EntityFramework.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\EntityFramework.SqlServer.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Owin.Cors.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Owin.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Owin.Security.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Web.Infrastructure.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Newtonsoft.Json.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Owin.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Device.Portable.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Net.Http.Formatting.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Web.Cors.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Web.Helpers.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Web.Http.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Web.Http.WebHost.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Web.Mvc.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Web.Razor.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Web.Webpages.Deployment.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Web.Webpages.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Web.Webpages.Razor.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\EntityFramework.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\EntityFramework.SqlServer.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Owin.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Owin.Cors.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Owin.Security.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Newtonsoft.Json.pdb
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Newtonsoft.Json.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Web.Razor.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Web.Webpages.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Web.Webpages.Deployment.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Web.Webpages.Razor.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Web.Helpers.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Web.Mvc.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Net.Http.Formatting.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Web.Http.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Web.Http.WebHost.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\obj\Debug\KenakataApp.csprojAssemblyReference.cache
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\obj\Debug\KenakataApp.csproj.CoreCompileInputs.cache
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\obj\Debug\KenakataApp.csproj.CopyComplete
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\obj\Debug\KenakataApp.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\obj\Debug\KenakataApp.pdb
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Win32.Primitives.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\netstandard.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.AppContext.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Collections.Concurrent.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Collections.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Collections.NonGeneric.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Collections.Specialized.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.ComponentModel.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.ComponentModel.EventBasedAsync.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.ComponentModel.Primitives.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.ComponentModel.TypeConverter.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Console.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Data.Common.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Diagnostics.Contracts.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Diagnostics.Debug.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Diagnostics.FileVersionInfo.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Diagnostics.Process.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Diagnostics.StackTrace.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Diagnostics.Tools.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Diagnostics.TraceSource.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Diagnostics.Tracing.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Drawing.Primitives.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Dynamic.Runtime.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Globalization.Calendars.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Globalization.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Globalization.Extensions.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.IO.Compression.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.IO.Compression.ZipFile.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.IO.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.IO.FileSystem.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.IO.FileSystem.DriveInfo.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.IO.FileSystem.Primitives.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.IO.FileSystem.Watcher.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.IO.IsolatedStorage.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.IO.MemoryMappedFiles.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.IO.Pipes.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.IO.UnmanagedMemoryStream.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Linq.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Linq.Expressions.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Linq.Parallel.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Linq.Queryable.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Net.Http.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Net.NameResolution.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Net.NetworkInformation.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Net.Ping.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Net.Primitives.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Net.Requests.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Net.Security.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Net.Sockets.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Net.WebHeaderCollection.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Net.WebSockets.Client.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Net.WebSockets.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.ObjectModel.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Reflection.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Reflection.Extensions.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Reflection.Primitives.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Resources.Reader.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Resources.ResourceManager.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Resources.Writer.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Runtime.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Runtime.Extensions.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Runtime.Handles.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Runtime.InteropServices.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Runtime.Numerics.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Runtime.Serialization.Formatters.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Runtime.Serialization.Json.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Runtime.Serialization.Primitives.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Runtime.Serialization.Xml.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Security.Claims.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Security.Cryptography.Algorithms.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Security.Cryptography.Csp.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Security.Cryptography.Encoding.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Security.Cryptography.Primitives.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Security.Cryptography.X509Certificates.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Security.Principal.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Security.SecureString.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Text.Encoding.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Text.Encoding.Extensions.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Text.RegularExpressions.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Threading.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Threading.Overlapped.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Threading.Tasks.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Threading.Tasks.Parallel.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Threading.Thread.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Threading.ThreadPool.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Threading.Timer.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.ValueTuple.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Xml.ReaderWriter.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Xml.XDocument.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Xml.XmlDocument.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Xml.XmlSerializer.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Xml.XPath.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Xml.XPath.XDocument.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Cookie.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Discord.Net.Commands.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Discord.Net.Core.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Discord.Net.Rest.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Discord.Net.Webhook.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Discord.Net.WebSocket.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Lambda2Js.Signed.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.DataProtection.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Identity.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Extensions.ObjectPool.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Options.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Primitives.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Extensions.WebEncoders.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Net.Http.Headers.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Win32.Registry.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Raven.Client.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Raven.Embedded.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Sparrow.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Buffers.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Collections.Immutable.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.ComponentModel.Annotations.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Interactive.Async.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Memory.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Numerics.Vectors.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Security.AccessControl.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Security.Cryptography.Cng.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Security.Cryptography.Xml.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Security.Permissions.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Security.Principal.Windows.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Text.Encodings.Web.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Threading.Tasks.Extensions.dll
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Discord.Net.Commands.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Discord.Net.Core.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Discord.Net.Rest.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Discord.Net.Webhook.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Discord.Net.WebSocket.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Lambda2Js.Signed.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.DataProtection.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Identity.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Extensions.ObjectPool.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Options.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Primitives.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Extensions.WebEncoders.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\Microsoft.Net.Http.Headers.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Buffers.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Collections.Immutable.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Interactive.Async.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Memory.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Numerics.Vectors.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Text.Encodings.Web.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\bin\System.Threading.Tasks.Extensions.xml
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\obj\Debug\KenakataApp.Migrations.Version1.resources
+E:\Nerd Castle Ltd\KenakataApp\KenakataApp\obj\Debug\KenakataApp.csproj.GenerateResource.cache
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\KenakataApp.dll.config
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\KenakataApp.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\KenakataApp.pdb
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\csc.exe
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\csc.exe.config
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\csc.rsp
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\csi.exe
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\csi.exe.config
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\csi.rsp
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.AppContext.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.Console.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\vbc.exe
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\vbc.exe.config
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\vbc.rsp
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\netstandard.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.AppContext.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Collections.Concurrent.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Collections.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Collections.NonGeneric.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Collections.Specialized.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.ComponentModel.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.ComponentModel.Primitives.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Console.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Data.Common.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Diagnostics.Contracts.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Diagnostics.Debug.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Diagnostics.Process.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Diagnostics.Tools.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Diagnostics.Tracing.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Drawing.Primitives.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Dynamic.Runtime.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Globalization.Calendars.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Globalization.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Globalization.Extensions.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.IO.Compression.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.IO.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.IO.FileSystem.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.IO.IsolatedStorage.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.IO.Pipes.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Linq.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Linq.Expressions.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Linq.Parallel.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Linq.Queryable.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Net.Http.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Net.NameResolution.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Net.NetworkInformation.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Net.Ping.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Net.Primitives.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Net.Requests.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Net.Security.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Net.Sockets.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Net.WebSockets.Client.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Net.WebSockets.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.ObjectModel.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Reflection.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Reflection.Extensions.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Reflection.Primitives.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Resources.Reader.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Resources.ResourceManager.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Resources.Writer.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Runtime.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Runtime.Extensions.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Runtime.Handles.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Runtime.InteropServices.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Runtime.Numerics.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Security.Claims.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Security.Principal.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Security.SecureString.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Text.Encoding.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Text.RegularExpressions.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Threading.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Threading.Overlapped.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Threading.Tasks.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Threading.Thread.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Threading.ThreadPool.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Threading.Timer.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.ValueTuple.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Xml.ReaderWriter.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Xml.XDocument.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Xml.XmlDocument.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Xml.XmlSerializer.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Xml.XPath.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Cookie.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Discord.Net.Commands.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Discord.Net.Core.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Discord.Net.Rest.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Discord.Net.Webhook.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Discord.Net.WebSocket.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\EntityFramework.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Lambda2Js.Signed.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Identity.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Options.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Owin.Cors.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Owin.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Win32.Registry.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Newtonsoft.Json.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Owin.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Raven.Client.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Raven.Embedded.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Sparrow.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Buffers.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Collections.Immutable.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.ComponentModel.Annotations.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Device.Portable.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Interactive.Async.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Memory.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Numerics.Vectors.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Security.AccessControl.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Security.Cryptography.Cng.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Security.Cryptography.Xml.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Security.Permissions.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Security.Principal.Windows.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Text.Encodings.Web.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Web.Cors.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Web.Helpers.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Web.Http.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Web.Mvc.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Web.Razor.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Web.Webpages.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Discord.Net.Commands.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Discord.Net.Core.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Discord.Net.Rest.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Discord.Net.Webhook.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Discord.Net.WebSocket.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\EntityFramework.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Lambda2Js.Signed.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Identity.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Options.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Owin.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Owin.Cors.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Newtonsoft.Json.pdb
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Newtonsoft.Json.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Buffers.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Collections.Immutable.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Interactive.Async.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Memory.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Numerics.Vectors.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Text.Encodings.Web.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Web.Razor.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Web.Webpages.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Web.Helpers.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Web.Mvc.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Web.Http.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\obj\Debug\KenakataApp.csprojAssemblyReference.cache
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\obj\Debug\KenakataApp.Migrations.Version1.resources
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\obj\Debug\KenakataApp.csproj.GenerateResource.cache
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\obj\Debug\KenakataApp.csproj.CoreCompileInputs.cache
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\obj\Debug\KenakataApp.csproj.CopyComplete
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\obj\Debug\KenakataApp.dll
+C:\Users\Touhid\Desktop\KenakataApp\KenakataApp\obj\Debug\KenakataApp.pdb
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\KenakataApp.dll.config
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\KenakataApp.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\KenakataApp.pdb
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\csc.exe
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\csc.exe.config
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\csc.rsp
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\csi.exe
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\csi.exe.config
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\csi.rsp
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.AppContext.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.Collections.Immutable.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.Console.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.IO.Compression.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.IO.FileSystem.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.IO.Pipes.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.Security.AccessControl.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.Security.Claims.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.ValueTuple.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.Xml.XPath.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\vbc.exe
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\vbc.exe.config
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\vbc.rsp
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\VBCSCompiler.exe
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\roslyn\VBCSCompiler.exe.config
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Win32.Primitives.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\netstandard.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.AppContext.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Collections.Concurrent.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Collections.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Collections.NonGeneric.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Collections.Specialized.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.ComponentModel.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.ComponentModel.EventBasedAsync.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.ComponentModel.Primitives.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.ComponentModel.TypeConverter.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Console.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Data.Common.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Diagnostics.Contracts.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Diagnostics.Debug.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Diagnostics.FileVersionInfo.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Diagnostics.Process.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Diagnostics.StackTrace.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Diagnostics.Tools.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Diagnostics.TraceSource.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Diagnostics.Tracing.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Drawing.Primitives.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Dynamic.Runtime.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Globalization.Calendars.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Globalization.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Globalization.Extensions.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.IO.Compression.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.IO.Compression.ZipFile.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.IO.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.IO.FileSystem.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.IO.FileSystem.DriveInfo.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.IO.FileSystem.Primitives.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.IO.FileSystem.Watcher.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.IO.IsolatedStorage.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.IO.MemoryMappedFiles.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.IO.Pipes.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.IO.UnmanagedMemoryStream.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Linq.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Linq.Expressions.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Linq.Parallel.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Linq.Queryable.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Net.Http.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Net.NameResolution.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Net.NetworkInformation.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Net.Ping.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Net.Primitives.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Net.Requests.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Net.Security.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Net.Sockets.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Net.WebHeaderCollection.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Net.WebSockets.Client.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Net.WebSockets.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.ObjectModel.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Reflection.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Reflection.Extensions.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Reflection.Primitives.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Resources.Reader.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Resources.ResourceManager.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Resources.Writer.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Runtime.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Runtime.Extensions.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Runtime.Handles.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Runtime.InteropServices.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Runtime.Numerics.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Runtime.Serialization.Formatters.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Runtime.Serialization.Json.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Runtime.Serialization.Primitives.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Runtime.Serialization.Xml.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Security.Claims.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Security.Cryptography.Algorithms.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Security.Cryptography.Csp.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Security.Cryptography.Encoding.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Security.Cryptography.Primitives.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Security.Cryptography.X509Certificates.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Security.Principal.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Security.SecureString.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Text.Encoding.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Text.Encoding.Extensions.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Text.RegularExpressions.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Threading.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Threading.Overlapped.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Threading.Tasks.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Threading.Tasks.Parallel.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Threading.Thread.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Threading.ThreadPool.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Threading.Timer.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.ValueTuple.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Xml.ReaderWriter.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Xml.XDocument.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Xml.XmlDocument.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Xml.XmlSerializer.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Xml.XPath.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Xml.XPath.XDocument.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Cookie.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Discord.Net.Commands.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Discord.Net.Core.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Discord.Net.Rest.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Discord.Net.Webhook.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Discord.Net.WebSocket.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\EntityFramework.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\EntityFramework.SqlServer.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Lambda2Js.Signed.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.DataProtection.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Identity.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Extensions.ObjectPool.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Options.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Primitives.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Extensions.WebEncoders.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Net.Http.Headers.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Owin.Cors.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Owin.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Owin.Security.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Web.Infrastructure.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Win32.Registry.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Newtonsoft.Json.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Owin.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Raven.Client.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Raven.Embedded.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Sparrow.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Buffers.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Collections.Immutable.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.ComponentModel.Annotations.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Device.Portable.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Interactive.Async.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Memory.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Net.Http.Formatting.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Numerics.Vectors.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Security.AccessControl.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Security.Cryptography.Cng.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Security.Cryptography.Xml.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Security.Permissions.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Security.Principal.Windows.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Text.Encodings.Web.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Threading.Tasks.Extensions.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Web.Cors.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Web.Helpers.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Web.Http.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Web.Http.WebHost.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Web.Mvc.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Web.Razor.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Web.Webpages.Deployment.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Web.Webpages.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Web.Webpages.Razor.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Discord.Net.Commands.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Discord.Net.Core.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Discord.Net.Rest.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Discord.Net.Webhook.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Discord.Net.WebSocket.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\EntityFramework.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\EntityFramework.SqlServer.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Lambda2Js.Signed.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.DataProtection.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.Identity.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Extensions.ObjectPool.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Options.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Extensions.Primitives.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Extensions.WebEncoders.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Net.Http.Headers.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Owin.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Owin.Cors.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Owin.Security.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Newtonsoft.Json.pdb
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Newtonsoft.Json.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Buffers.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Collections.Immutable.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Interactive.Async.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Memory.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Numerics.Vectors.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Text.Encodings.Web.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Threading.Tasks.Extensions.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Web.Razor.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Web.Webpages.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Web.Webpages.Deployment.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Web.Webpages.Razor.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Web.Helpers.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Web.Mvc.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Net.Http.Formatting.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Web.Http.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\System.Web.Http.WebHost.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\obj\Debug\KenakataApp.csprojAssemblyReference.cache
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\obj\Debug\KenakataApp.csproj.CoreCompileInputs.cache
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\obj\Debug\KenakataApp.csproj.CopyComplete
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\obj\Debug\KenakataApp.dll
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\obj\Debug\KenakataApp.pdb
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\obj\Debug\KenakataApp.Migrations.Version1.resources
+E:\Nerd Castle Ltd\Updated\KenakataApp\KenakataApp\obj\Debug\KenakataApp.csproj.GenerateResource.cache
